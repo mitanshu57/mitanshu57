@@ -1,69 +1,45 @@
 ```markdown
-# Hi there, I'm Mitanshu Gaurav 👋
+# 👋 Hi there, I'm **Mitanshu Gaurav**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mitanshu57)
+[![👀 Visitors](https://visitor-badge.laobi.icu/badge?page_id=mitanshu57)](https://github.com/mitanshu57)
+[![⭐ GitHub Stars](https://img.shields.io/github/stars/mitanshu57?style=social)](https://github.com/mitanshu57)
 
-## 👨‍💻 About Me
+---
 
-- 🔭 I’m a 3rd-year B.Tech Information Technology student at IIITA.
-- 🌱 I’m passionate about software development, deep learning, and building scalable solutions.
-- 👯 I’m open to collaborating on open-source projects in C++, React Native, and Android.
-- 📫 Reach me: [mitanshugaurav@gmail.com](mailto:mitanshugaurav@gmail.com)
+## 🔭 About Me
+
+- 🎓 3rd-year **B.Tech Information Technology** student at IIITA
+- 🚀 Building scalable software, exploring deep learning, and contributing to open source
+- 🤝 Always excited to collaborate on **C++**, **React Native**, and **Android** projects
+
+---
 
 ## 🚀 Featured Projects
 
-### 💻 Expense-Tracker
-> A sleek web app to log and visualize your daily expenses in JavaScript.
-
-- **Live Demo**: [Expense-Tracker](https://expense-tracker-xi-virid.vercel.app/)
-- **Tech Stack:** React | Express | Node | MongoDB | JavaScript | HTML | CSS
-- **Highlights:**
-  - Real-time charts for spending patterns.
-  - Responsive design for mobile and desktop.
-
----
-
-### 🍔 FoodApp
-> An Android app for ordering food using Firebase Authentication.
-
-- **Tech Stack:** Java | Firebase Auth
-- **Highlights:**
-  - Secure login/signup flow.
-  - Real-time order tracking.
-
----
-
-### 🌐 Web-Server-in-C
-> Building a basic HTTP web server from scratch in C.
-
-- **Tech Stack:** C
-- **Highlights:**
-  - Handles GET requests and serves static HTML.
-  - Teaches foundational network programming.
-
----
-
-### 📰 NewsBee
-> Dynamic React site fetching real-time news via API.
-
-- **Tech Stack:** React | JavaScript | News API
-- **Highlights:**
-  - Category filters & search bar.
-  - Infinite scroll for seamless reading.
+| Project             | Description                                      | Tech Stack                         | Link                                      |
+| ------------------- | ------------------------------------------------ | ---------------------------------- | ----------------------------------------- |
+| 💸 **Expense-Tracker** | Sleek web app to log & visualize daily expenses | React • Node.js • Express • MongoDB | [Live Demo](https://expense-tracker-xi-virid.vercel.app) |
+| 🍔 **FoodApp**         | Android food ordering app with Firebase auth    | Java • Firebase Auth • Realtime DB | [GitHub](https://github.com/mitanshu57/FoodApp)            |
+| 🌐 **Web-Server-in-C** | Custom HTTP server from scratch in C            | C • POSIX Sockets                  | [GitHub](https://github.com/mitanshu57/Web-Server-in-C)    |
+| 📰 **NewsBee**         | News site with infinite scroll & category filters | React • JS • News API              | [Live Demo](https://your-newsbee-demo.com)                |
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-| Languages  | Frameworks & Libraries     | Tools & Platforms     |
-| ---------- | -------------------------- | --------------------- |
-| C++        | React Native               | Git & GitHub          |
-| Python     | Jetpack (Android)          | Docker                |
-| Java       | Kotlin                     | VSCode / Android Studio |
-| JavaScript | TensorFlow / PyTorch       | Figma                 |
+| 📝 Languages        | ⚙️ Frameworks & Libraries    | 🛠️ Tools & Platforms        |
+| ------------------- | ---------------------------- | ---------------------------- |
+| C++                 | React Native                 | Git & GitHub                 |
+| Python              | Jetpack (Android)            | Docker                       |
+| Java                | Kotlin                       | VSCode / Android Studio      |
+| JavaScript          | TensorFlow • PyTorch         | Figma                        |
+
+---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mitanshu57&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitanshu57&show_icons=true&theme=radical)
+
+---
 
 ```
