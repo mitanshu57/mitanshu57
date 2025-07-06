@@ -1,9 +1,6 @@
 ```markdown
 # 👋 Hi there, I'm **Mitanshu Gaurav**
 
-[![👀 Visitors](https://visitor-badge.laobi.icu/badge?page_id=mitanshu57)](https://github.com/mitanshu57)
-[![⭐ GitHub Stars](https://img.shields.io/github/stars/mitanshu57?style=social)](https://github.com/mitanshu57)
-
 ---
 
 ## 🔭 About Me
@@ -35,10 +32,6 @@
 | JavaScript          | TensorFlow • PyTorch         | Figma                        |
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitanshu57&show_icons=true&theme=radical)
 
 ---
 
